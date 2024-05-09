@@ -8,7 +8,7 @@ const additionalMessage = document.querySelector(".additional-message");
 yesBtn.addEventListener("click", () => {
   question.innerHTML = "Tớ biết cậu sẽ đồng ý vì cậu iuu tớ màaa =)))))";
   gif.src =
-    "https://media.giphy.com/media/MFkTITj69pMOPlbfeX/giphy.gif";
+    "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHk3YXFnYzczeXpqMGt4OHkyM3l6eGFtOTV2enJvcGNnN2hmb3UzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/s5pqEUOsNQISDw6Eu7/giphy.gif";
   // Ẩn cả hai nút "Yes" và "No"
   yesBtn.style.display = "none";
   noBtn.style.display = "none";
